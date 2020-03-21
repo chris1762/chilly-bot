@@ -32,4 +32,4 @@ bot.on('message', message=>{
 
 
 bot.login (token); 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.Njg5NTQwNTM3NTAxNDgzMTA5.XnYdUQ.dbYkyyECvVBqcovVUxiayXOFUew);
